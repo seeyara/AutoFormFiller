@@ -1,0 +1,22 @@
+Tasks for CraveBot
+
+1. read from csv
+2. launch website 
+3. fill form
+4. confirm if submitted
+5. Write into file
+
+Auxiliary tasks:
+1. error handling(in case of 
+	1. web address is incorrect
+	2. no contact page
+	3. Contact page but no form
+	4. Form but different fields
+	5. After submission thank you/error message is different
+
+2. Solving the errors involves
+	1. Creating a knowledge base
+	
+Errors rn
+1. Scraping is case sensitive
+2. No able to update excel sheets
